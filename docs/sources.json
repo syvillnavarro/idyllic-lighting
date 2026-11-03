@@ -1,0 +1,187 @@
+{
+  "researched_at": "2026-11-01",
+  "sources": [
+    {
+      "id": "B1",
+      "title": "Supplier installer listing",
+      "url": "https://countrynutcreations.ca/find-an-installer",
+      "status": "read",
+      "use": "Business reference; obtain owner approval before launch."
+    },
+    {
+      "id": "B2",
+      "title": "Facebook page linked by supplier",
+      "url": "https://www.facebook.com/profile.php?id=61567869581164",
+      "status": "link_verified_content_access_limited",
+      "use": "Inspect Posts, Photos, Videos/Reels and Reviews/Recommendations in an authorized browser. Individual content not verified."
+    },
+    {
+      "id": "B3",
+      "title": "Logo image linked by supplier",
+      "url": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/694e0b62f219a13c6872f89c/c1244387b_image.png",
+      "status": "image_viewed",
+      "use": "Brand reference only; obtain original and usage permission."
+    },
+    {
+      "id": "B4",
+      "title": "Reddit public recommendation",
+      "url": "https://www.reddit.com/r/Edmonton/comments/1x9gryd/comment/phlazpj/",
+      "status": "public_comment_found",
+      "use": "Research lead only. Not verified customer identity, pricing or testimonial approval."
+    },
+    {
+      "id": "B5",
+      "title": "Google Maps discovery search",
+      "url": "https://www.google.com/maps/search/?api=1&query=Idyllic%20Lighting%20Leduc%20Alberta",
+      "status": "constructed_search_not_verified_listing",
+      "use": "Find and verify exact business profile; do not display ratings based on this link."
+    },
+    {
+      "id": "B6",
+      "title": "Supplier Govee page",
+      "url": "https://countrynutcreations.ca/GoveeProducts",
+      "status": "read",
+      "use": "Secondary installer reference. Supplier product reviews are not Idyllic reviews."
+    },
+    {
+      "id": "T1",
+      "title": "Remotion Player API",
+      "url": "https://www.remotion.dev/docs/player/player",
+      "status": "official_reference",
+      "use": "Check current documentation before implementation."
+    },
+    {
+      "id": "T2",
+      "title": "Remotion animation",
+      "url": "https://www.remotion.dev/docs/animating-properties",
+      "status": "official_reference",
+      "use": "Check current documentation before implementation."
+    },
+    {
+      "id": "T3",
+      "title": "Remotion Player practices",
+      "url": "https://www.remotion.dev/docs/player/best-practices",
+      "status": "official_reference",
+      "use": "Check current documentation before implementation."
+    },
+    {
+      "id": "T4",
+      "title": "Motion scroll",
+      "url": "https://motion.dev/docs/react-use-scroll",
+      "status": "official_reference",
+      "use": "Check current documentation before implementation."
+    },
+    {
+      "id": "T5",
+      "title": "Motion reduced motion",
+      "url": "https://motion.dev/docs/react-use-reduced-motion",
+      "status": "official_reference",
+      "use": "Check current documentation before implementation."
+    },
+    {
+      "id": "T6",
+      "title": "Remotion licensing",
+      "url": "https://www.remotion.dev/docs/license/pricing",
+      "status": "official_reference",
+      "use": "Check current documentation before implementation."
+    },
+    {
+      "id": "T7",
+      "title": "W3C automatic motion",
+      "url": "https://www.w3.org/WAI/WCAG22/Understanding/pause-stop-hide.html",
+      "status": "official_reference",
+      "use": "Check current documentation before implementation."
+    },
+    {
+      "id": "T8",
+      "title": "W3C interaction motion",
+      "url": "https://www.w3.org/WAI/WCAG22/Understanding/animation-from-interactions.html",
+      "status": "official_reference",
+      "use": "Check current documentation before implementation."
+    },
+    {
+      "id": "T9",
+      "title": "Google AI features",
+      "url": "https://developers.google.com/search/docs/appearance/ai-features",
+      "status": "official_reference",
+      "use": "Check current documentation before implementation."
+    },
+    {
+      "id": "T10",
+      "title": "Google LocalBusiness",
+      "url": "https://developers.google.com/search/docs/appearance/structured-data/local-business",
+      "status": "official_reference",
+      "use": "Check current documentation before implementation."
+    },
+    {
+      "id": "T11",
+      "title": "OWASP file upload",
+      "url": "https://cheatsheetseries.owasp.org/cheatsheets/File_Upload_Cheat_Sheet.html",
+      "status": "official_reference",
+      "use": "Check current documentation before implementation."
+    },
+    {
+      "id": "T12",
+      "title": "Cloudflare token validation",
+      "url": "https://developers.cloudflare.com/turnstile/get-started/server-side-validation/",
+      "status": "official_reference",
+      "use": "Check current documentation before implementation."
+    },
+    {
+      "id": "T13",
+      "title": "Web Vitals",
+      "url": "https://web.dev/articles/vitals",
+      "status": "official_reference",
+      "use": "Check current documentation before implementation."
+    },
+    {
+      "id": "T14",
+      "title": "Google reviews",
+      "url": "https://developers.google.com/search/docs/appearance/structured-data/review-snippet",
+      "status": "official_reference",
+      "use": "Check current documentation before implementation."
+    },
+    {
+      "id": "T15",
+      "title": "Cursor skills",
+      "url": "https://cursor.com/docs/skills",
+      "status": "official_reference",
+      "use": "Check current documentation before implementation."
+    },
+    {
+      "id": "T16",
+      "title": "Remotion skills",
+      "url": "https://www.remotion.dev/docs/ai/skills",
+      "status": "official_reference",
+      "use": "Check current documentation before implementation."
+    },
+    {
+      "id": "T17",
+      "title": "Frontend skill",
+      "url": "https://github.com/anthropics/skills/tree/main/skills/frontend-design",
+      "status": "official_reference",
+      "use": "Check current documentation before implementation."
+    },
+    {
+      "id": "T18",
+      "title": "Testing skill",
+      "url": "https://github.com/anthropics/skills/tree/main/skills/webapp-testing",
+      "status": "official_reference",
+      "use": "Check current documentation before implementation."
+    },
+    {
+      "id": "T19",
+      "title": "Playwright",
+      "url": "https://playwright.dev/docs/intro",
+      "status": "official_reference",
+      "use": "Check current documentation before implementation."
+    },
+    {
+      "id": "T20",
+      "title": "Skills CLI",
+      "url": "https://github.com/vercel-labs/skills",
+      "status": "official_reference",
+      "use": "Check current documentation before implementation."
+    }
+  ]
+}

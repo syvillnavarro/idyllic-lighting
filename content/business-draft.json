@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "researchDate": "2026-11-01",
+  "launchApproved": false,
+  "submissionMode": "demo",
+  "identity": {
+    "displayName": "Idyllic Lighting",
+    "legalName": null,
+    "domain": null,
+    "publicPhone": null,
+    "publicStreetAddress": null,
+    "hours": null
+  },
+  "publishedReferences": {
+    "sourceIds": [
+      "B1",
+      "B6"
+    ],
+    "baseCity": "Leduc",
+    "province": "Alberta",
+    "country": "Canada",
+    "email": "idylliclighting@gmail.com",
+    "facebook": "https://www.facebook.com/profile.php?id=61567869581164",
+    "serviceAreas": [
+      "Central Alberta",
+      "Leduc",
+      "Edmonton",
+      "Leduc County"
+    ],
+    "ownerApproved": false
+  },
+  "proposedServices": [
+    {
+      "id": "permanent",
+      "label": "Permanent Lighting",
+      "sourceId": "B1",
+      "approved": false
+    },
+    {
+      "id": "seasonal",
+      "label": "Seasonal & Christmas Lighting",
+      "sourceId": "B1",
+      "approved": false
+    },
+    {
+      "id": "events",
+      "label": "Wedding & Event Lighting",
+      "sourceId": "B1",
+      "approved": false
+    }
+  ],
+  "secondaryServicesPendingApproval": [
+    "Window washing",
+    "Solar-panel cleaning",
+    "Gutter cleaning"
+  ],
+  "forms": {
+    "freeQuoteApproved": false,
+    "siteVisitFeePolicy": null,
+    "timezone": "America/Edmonton",
+    "ownerNotificationInbox": null,
+    "visitWindows": null,
+    "allowFlexiblePreference": true,
+    "autoConfirmAppointments": false,
+    "liveUploadsEnabled": false
+  },
+  "socialProof": {
+    "reviews": [],
+    "googleBusinessProfileUrl": null,
+    "aggregateRating": null,
+    "reviewCount": null
+  },
+  "campaign": {
+    "enabled": false,
+    "kind": "christmas",
+    "startDate": null,
+    "endDate": null,
+    "deadlineApproved": false
+  },
+  "motion": {
+    "introSeconds": 1.2,
+    "idlePulses": 2,
+    "idleSeconds": 2.4,
+    "fps": 30,
+    "scrubFrames": 300,
+    "desktopWrapperSvh": 250,
+    "reducedMotionMode": "fully-lit-static",
+    "alwaysUsableCtas": true
+  }
+}

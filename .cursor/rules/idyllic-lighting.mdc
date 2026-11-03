@@ -1,0 +1,13 @@
+---
+description: Idyllic Lighting project guardrails
+alwaysApply: true
+---
+
+Read docs/BUILD_BRIEF.md and invoke idyllic-lighting-build for work on this site.
+Preserve user changes and the approved house-assembly/single-bulb/scroll-lighting concept.
+Keep native scrolling, semantic content and both inquiry actions available immediately.
+Use demo submissions until explicit production approval; never send test leads to Idyllic.
+Treat a site visit as a request, not a confirmed booking.
+Never invent business facts, reviews, image rights or deadlines. Keep unresolved fields hidden/null.
+Use the sources and asset manifest. Supplier product reviews are not Idyllic reviews.
+Review the hero visually on desktop/mobile before expanding the build.

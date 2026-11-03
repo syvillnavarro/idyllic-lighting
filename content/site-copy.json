@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 1,
+  "approved": false,
+  "notes": "Proposed preview copy taken from the brief (sections 5 and 9) or derived from published reference B1. Owner approval required before launch.",
+  "preview": {
+    "label": "Concept preview",
+    "detail": "Not the official Idyllic Lighting website. Forms are demo-only.",
+    "short": "Concept preview · demo forms only"
+  },
+  "actions": {
+    "quote": "Get a Free Quote",
+    "siteVisit": "Request a Site Visit",
+    "freeWordingApproved": false
+  },
+  "hero": {
+    "opening": {
+      "title": "Every transformation starts with a little light.",
+      "lede": "Permanent & seasonal lighting for your home and business.",
+      "scrollCue": "Scroll to bring it to life."
+    },
+    "introduction": {
+      "title": "Meet Idyllic Lighting.",
+      "body": "Permanent and seasonal outdoor lighting for homes and businesses in Leduc, Edmonton, Leduc County and across Central Alberta.",
+      "bodySourceId": "B1",
+      "bodyApproved": false
+    },
+    "closing": {
+      "title": "Let’s bring your home to light."
+    },
+    "skip": "Skip animation",
+    "visualization": "Lighting visualization",
+    "visualizationDetail": "An illustration of the lighting idea, not a photo of a completed installation."
+  },
+  "inquiry": {
+    "title": "Tell us about your project",
+    "pageTitle": "Request a quote or site visit",
+    "intro": "Ask for a quote or a site visit. Both use this one short form, and you can switch between them at any time.",
+    "types": {
+      "quote": {
+        "label": "Quote",
+        "hint": "Describe the project and Idyllic Lighting will follow up about a quote."
+      },
+      "site_visit": {
+        "label": "Site visit",
+        "hint": "Ask for a visit to look at the property. Your preferred date is a request, not a booking."
+      }
+    },
+    "confirmation": {
+      "quote": "Thank you — your quote request has been received. Idyllic Lighting will review your project and contact you about next steps.",
+      "site_visit": "Your site-visit request has been received. Your preferred date and time are not confirmed. Idyllic Lighting will contact you to arrange the visit."
+    },
+    "demoNotice": "Demo only — no request has been sent.",
+    "privacy": "Idyllic Lighting would use these details only to reply to this request. In this preview, nothing you enter is sent or stored."
+  }
+}

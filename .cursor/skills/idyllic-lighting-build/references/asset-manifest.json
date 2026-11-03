@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 1,
+  "assets": [
+    {
+      "id": "logo-reference",
+      "sourceUrl": "https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/694e0b62f219a13c6872f89c/c1244387b_image.png",
+      "sourceId": "B3",
+      "kind": "brand-reference",
+      "localPath": null,
+      "rightsHolder": null,
+      "permissionStatus": "pending",
+      "productionApproved": false,
+      "isActualProject": false,
+      "edits": [],
+      "notes": "Request original logo; do not hotlink or treat as hero photography."
+    },
+    {
+      "id": "hero-base",
+      "sourceUrl": null,
+      "sourceId": null,
+      "kind": "hero-visualization",
+      "localPath": null,
+      "rightsHolder": null,
+      "permissionStatus": "pending",
+      "productionApproved": false,
+      "isActualProject": null,
+      "edits": [],
+      "notes": "One coherent, aligned house scene; label visualization if generated or composited."
+    },
+    {
+      "id": "hero-lit-poster",
+      "sourceUrl": null,
+      "sourceId": null,
+      "kind": "hero-fallback",
+      "localPath": null,
+      "rightsHolder": null,
+      "permissionStatus": "pending",
+      "productionApproved": false,
+      "isActualProject": null,
+      "edits": [],
+      "notes": "Aligned with hero-base; static reduced-motion and error fallback."
+    },
+    {
+      "id": "permanent-project-01",
+      "sourceUrl": null,
+      "sourceId": null,
+      "kind": "portfolio",
+      "localPath": null,
+      "rightsHolder": null,
+      "permissionStatus": "pending",
+      "productionApproved": false,
+      "isActualProject": null,
+      "edits": [],
+      "notes": "Owner-approved genuine installation; exact post permalink and original requested."
+    },
+    {
+      "id": "seasonal-project-01",
+      "sourceUrl": null,
+      "sourceId": null,
+      "kind": "portfolio",
+      "localPath": null,
+      "rightsHolder": null,
+      "permissionStatus": "pending",
+      "productionApproved": false,
+      "isActualProject": null,
+      "edits": [],
+      "notes": "Owner-approved genuine holiday installation."
+    },
+    {
+      "id": "event-project-01",
+      "sourceUrl": null,
+      "sourceId": null,
+      "kind": "portfolio",
+      "localPath": null,
+      "rightsHolder": null,
+      "permissionStatus": "pending",
+      "productionApproved": false,
+      "isActualProject": null,
+      "edits": [],
+      "notes": "Owner-approved genuine event project; hide if unavailable."
+    }
+  ]
+}
