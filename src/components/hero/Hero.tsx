@@ -8,14 +8,14 @@ import { actionLabel, copy } from "@/config/public";
 import { STATIC_VIEWBOX, computeFraming, type Framing } from "./framing";
 import type { HeroPlayerProps } from "./HeroPlayer";
 import { HouseScene } from "./HouseScene";
-import { ALL_LIT, ASSEMBLED, FPS, IDLE_START, LIT_AT, SCRUB_START, scrubFrame } from "./timeline";
+import { ALL_LIT, FPS, IDLE_START, LIT_AT, SCRUB_START, scrubFrame } from "./timeline";
 
 /** Same conditions as the animated layout in globals.css. */
 const MOTION_QUERY = "(prefers-reduced-motion: no-preference) and (min-height: 560px)";
 const SPLIT_QUERY = "(min-width: 1100px), (min-width: 900px) and (min-aspect-ratio: 8/5)";
 
 const INTRO_KEY = "idyllic:intro-seen";
-/** If the animation code arrives later than this, start from the assembled house instead. */
+/** If the animation code arrives later than this, start from the idle house instead. */
 const INTRO_DEADLINE_MS = 1500;
 
 const introSeen = () => {
@@ -239,7 +239,6 @@ export function Hero() {
               viewBox={animated && framing ? framing.viewBox : STATIC_VIEWBOX}
               preserveAspectRatio={animated && framing ? "xMidYMid meet" : "xMidYMid slice"}
               bulbScale={animated && framing ? framing.bulbScale : 1}
-              assembly={ASSEMBLED}
               intensities={ALL_LIT}
             />
             {animated && framing && loaded && (

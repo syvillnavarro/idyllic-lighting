@@ -86,13 +86,16 @@
       "sourceUrl": null,
       "sourceId": null,
       "kind": "hero-visualization",
-      "localPath": "src/components/hero/HouseScene.tsx",
+      "localPath": "src/assets/hero/house-night.webp",
       "rightsHolder": null,
       "permissionStatus": "pending",
       "productionApproved": false,
       "isActualProject": false,
-      "edits": [],
-      "notes": "Original vector house scene drawn in code for this preview; no photographs or third-party images. The Remotion composition assembles and lights it. Labelled on the page as a lighting visualization, not a completed installation. Needs the owner's approval."
+      "edits": [
+        "Generated night photograph of a suburban house, not a real property or Idyllic job",
+        "Converted to 1280x720 WebP"
+      ],
+      "notes": "Generated visualization plate for the concept preview. Not an Idyllic installation and not a stock library photo of someone else's work. The Remotion composition only adds the roofline lights. Labelled on the page as a lighting visualization. Replace with an owner-approved photograph when one is available."
     },
     {
       "id": "hero-lit-poster",
@@ -105,7 +108,7 @@
       "productionApproved": false,
       "isActualProject": false,
       "edits": [],
-      "notes": "The same scene rendered fully lit as inline SVG, so it aligns exactly with hero-base. Shown without JavaScript, with reduced motion, on short viewports and if the Player fails."
+      "notes": "The same night photograph with every authored bulb drawn on. Shown without JavaScript, with reduced motion, on short viewports and if the Player fails."
     },
     {
       "id": "permanent-project-01",

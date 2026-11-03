@@ -428,7 +428,7 @@ main:focus,
 .hero-scene {
   position: relative;
   grid-row: 2;
-  aspect-ratio: 1190 / 740;
+  aspect-ratio: 1060 / 600;
   overflow: hidden;
   border: 1px solid var(--line-dark);
   border-radius: 10px;
@@ -616,7 +616,6 @@ main:focus,
     opacity: 0;
   }
 
-  html.js .hero[data-poster="night"] .hero-poster .scene-house,
   html.js .hero[data-poster="night"] .hero-poster .scene-lights,
   html.js .hero[data-poster="idle"] .hero-poster .light:not(.is-first) {
     display: none;
@@ -638,7 +637,9 @@ main:focus,
     inset: 0;
     display: block;
     pointer-events: none;
-    background: linear-gradient(180deg, rgba(11, 14, 19, 0.72) 0%, rgba(11, 14, 19, 0.35) 34%, rgba(11, 14, 19, 0) 52%);
+    background:
+      linear-gradient(90deg, rgba(11, 14, 19, 0.78) 0%, rgba(11, 14, 19, 0.28) 38%, rgba(11, 14, 19, 0) 58%),
+      linear-gradient(180deg, rgba(11, 14, 19, 0.55) 0%, rgba(11, 14, 19, 0.18) 32%, rgba(11, 14, 19, 0) 50%);
   }
 
   html.js .hero:not([data-mode="static"]) .hero-copy {
