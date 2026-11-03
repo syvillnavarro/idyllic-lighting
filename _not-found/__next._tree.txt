@@ -1,4 +1,4 @@
 :HL["/idyllic-lighting/_next/static/chunks/26d4ibts5p6bc.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"PWzjQC3CotHkTXIqY1BHG","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"My18l5Dk_295h0cGbCngf","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
