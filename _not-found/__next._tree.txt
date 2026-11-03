@@ -1,4 +1,4 @@
-:HL["/idyllic-lighting/_next/static/chunks/3qffu85djy4c1.css","style"]
+:HL["/idyllic-lighting/_next/static/chunks/26d4ibts5p6bc.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"SsJqi2yeWpJfIV7dbEEpy","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"VEUBnmAVBBgcGp-rgvh5i","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
