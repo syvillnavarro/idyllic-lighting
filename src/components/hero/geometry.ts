@@ -19,12 +19,15 @@ export const points = (polygon: Polygon) => polygon.map(([x, y]) => `${x},${y}`)
 export const SILHOUETTE: Polygon[] = [
   [
     [200, 360],
-    [270, 255],
+    [248, 250],
     [400, 130],
-    [640, 160],
+    [545, 250],
+    [750, 250],
     [878, 150],
-    [990, 245],
-    [1158, 330],
+    [1008, 250],
+    [1148, 250],
+    [1148, 338],
+    [1158, 338],
     [1170, 600],
     [198, 600],
   ],
@@ -41,36 +44,29 @@ type Strand = {
  * Far-left garage eave first, then the main gables, porch beam and bay roof.
  */
 export const STRANDS: Strand[] = [
-  { id: "lower-eave", points: [[208, 360], [556, 360]] },
+  { id: "garage-eave", points: [[200, 360], [548, 360]] },
   {
     id: "upper-roofline",
-    branch: { from: "lower-eave", atX: 270 },
+    branch: { from: "garage-eave", atX: 255 },
     points: [
-      [270, 255],
+      [248, 250],
+      [290, 250],
       [400, 130],
-      [640, 160],
+      [545, 250],
+      [750, 250],
       [878, 150],
-      [940, 195],
-      [990, 245],
-      [1055, 292],
-      [1112, 318],
-      [1158, 330],
+      [1008, 250],
+      [1148, 250],
+      [1148, 332],
     ],
   },
   {
-    id: "porch-eave",
-    branch: { from: "lower-eave", atX: 556 },
+    id: "porch-bay-eave",
+    branch: { from: "garage-eave", atX: 548 },
     points: [
-      [672, 372],
-      [868, 372],
-    ],
-  },
-  {
-    id: "bay-eave",
-    branch: { from: "lower-eave", atX: 556 },
-    points: [
-      [1018, 338],
-      [1155, 338],
+      [640, 338],
+      [1152, 338],
+      [1152, 368],
     ],
   },
 ];
@@ -98,6 +94,10 @@ function distanceAtX(strand: Strand, x: number, offsets: Map<string, number>) {
   for (let i = 1; i < strand.points.length; i++) {
     const a = strand.points[i - 1];
     const b = strand.points[i];
+    if (b[0] === a[0]) {
+      travelled += length(a, b);
+      continue;
+    }
     if (x <= b[0]) return start + travelled + length(a, b) * ((x - a[0]) / (b[0] - a[0]));
     travelled += length(a, b);
   }
