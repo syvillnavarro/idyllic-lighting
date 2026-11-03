@@ -18,14 +18,14 @@ export const points = (polygon: Polygon) => polygon.map(([x, y]) => `${x},${y}`)
 /** Spill stays on the house, not the sky. */
 export const SILHOUETTE: Polygon[] = [
   [
-    [200, 368],
-    [248, 250],
-    [400, 116],
-    [640, 198],
-    [880, 158],
-    [1048, 268],
-    [1172, 334],
-    [1174, 600],
+    [200, 360],
+    [270, 255],
+    [400, 130],
+    [640, 160],
+    [878, 150],
+    [990, 245],
+    [1158, 330],
+    [1170, 600],
     [198, 600],
   ],
 ];
@@ -41,33 +41,36 @@ type Strand = {
  * Far-left garage eave first, then the main gables, porch beam and bay roof.
  */
 export const STRANDS: Strand[] = [
-  { id: "lower-eave", points: [[208, 366], [558, 366]] },
+  { id: "lower-eave", points: [[208, 360], [556, 360]] },
   {
     id: "upper-roofline",
-    branch: { from: "lower-eave", atX: 252 },
+    branch: { from: "lower-eave", atX: 270 },
     points: [
-      [252, 250],
-      [400, 116],
-      [640, 198],
-      [880, 158],
-      [1048, 268],
-      [1170, 332],
+      [270, 255],
+      [400, 130],
+      [640, 160],
+      [878, 150],
+      [940, 195],
+      [990, 245],
+      [1055, 292],
+      [1112, 318],
+      [1158, 330],
     ],
   },
   {
     id: "porch-eave",
-    branch: { from: "lower-eave", atX: 558 },
+    branch: { from: "lower-eave", atX: 556 },
     points: [
-      [668, 400],
-      [872, 400],
+      [672, 372],
+      [868, 372],
     ],
   },
   {
     id: "bay-eave",
-    branch: { from: "lower-eave", atX: 558 },
+    branch: { from: "lower-eave", atX: 556 },
     points: [
-      [1008, 330],
-      [1160, 330],
+      [1018, 338],
+      [1155, 338],
     ],
   },
 ];
