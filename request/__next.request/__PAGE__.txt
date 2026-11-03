@@ -1,0 +1,45 @@
+1:"$Sreact.fragment"
+2:"/idyllic-lighting/_next/static/chunks/42onvq6nokjl2.js"
+3:I[39756,["$2"],"default"]
+4:I[37457,["$2"],"default"]
+b:"/idyllic-lighting/_next/static/chunks/45caya3-pzexs.js"
+c:"/idyllic-lighting/_next/static/chunks/2dlmuea-eaz-c.js"
+d:I[73935,["$2","$b","$c"],"SiteHeader"]
+e:"$Sreact.suspense"
+f:I[69235,["$2","$b","$c"],"RequestQuery"]
+10:"REQUEST_SECTION_ID"
+11:I[53777,["$2","$b","$c"],"$10"]
+12:"REQUEST_HEADING_ID"
+13:I[53777,["$2","$b","$c"],"$12"]
+14:I[84497,["$2","$b","$c"],"InquiryForm"]
+15:I[85437,["$2","$b","$c"],"Image"]
+1e:"ViewportBoundary"
+1f:I[97367,["$2"],"$1e"]
+20:"MetadataBoundary"
+21:I[97367,["$2"],"$20"]
+22:I[27201,["$2"],"IconMark"]
+:HL["/idyllic-lighting/_next/static/chunks/3qffu85djy4c1.css","style"]
+6:X
+9:X
+9:C
+a:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[[["$","$Ld",null,{}],["$","main",null,{"id":"main","tabIndex":-1,"className":"request-page","children":[["$","$e",null,{"fallback":null,"children":["$","$Lf",null,{}]}],["$","section",null,{"id":"$11","className":"inquiry","aria-labelledby":"$13","children":["$","div",null,{"className":"inquiry-inner","children":[["$","div",null,{"className":"inquiry-intro","children":[["$","p",null,{"className":"eyebrow","children":"Quotes & site visits"}],["$","h1",null,{"id":"$13","tabIndex":-1,"children":"Request a quote or site visit"}],["$","p",null,{"className":"inquiry-lede","children":"Ask for a quote or a site visit. Both use this one short form, and you can switch between them at any time."}],["$","dl",null,{"className":"inquiry-facts","children":[["$","div",null,{"children":[["$","dt",null,{"children":"Service area"}],["$","dd",null,{"children":"Leduc, Edmonton, Leduc County and across Central Alberta"}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Email"}],["$","dd",null,{"children":["$","a",null,{"href":"mailto:idylliclighting@gmail.com","children":"idylliclighting@gmail.com"}]}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"Facebook"}],["$","dd",null,{"children":["$","a",null,{"href":"https://www.facebook.com/profile.php?id=61567869581164","target":"_blank","rel":"noopener noreferrer","children":"Idyllic Lighting on Facebook"}]}]]}]]}],["$","p",null,{"className":"inquiry-demo","children":[["$","strong",null,{"children":["Concept preview","."]}]," This form shows how requests will work. It doesn’t send anything to Idyllic Lighting."]}]]}],["$","$L14",null,{"labelledBy":"$13"}]]}]}]]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"footer-inner","children":[["$","div",null,{"className":"footer-brand","children":["$","$L15",null,{"src":{"src":"/idyllic-lighting/_next/static/media/idyllic-logo.3umzy-vaz9hw1.webp","width":480,"height":367,"blurWidth":8,"blurHeight":6,"blurDataURL":"data:image/webp;base64,UklGRlIBAABXRUJQVlA4TEYBAAAvB0ABEM1VICICHgiADQIAAIDHAQdOcgBAdIjgAAiAACA/AEAAAEAAAAAAACDAAQimCNxxdGiBwF0HAADwQABsEAAAAM5/sw+FknAjBwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPhTzfzcUc0DAbBBAAAAOP+lB+D6ti45AAAAAAAAAAAAAAAAAAAAAAAAAAAAAHC4E4GfgxO3qfJAAGwQAAAAzv/jmeonIwRyjgAHAAEAHACAAAAAAAAAAAAAAAAABADk5ICicMQBZz0JADB65SLnqljI38eeP/OHeShQulpSNNNNI8rYuJJM2Sm57LSWZd7rvKbk9RG3Epv4Fo2VT10GMYW15VsnaJivyuyLfw/DtJu7zwfPmH105/pslY9kHFADPtc+vEpwDwJ87WT7VukP/PvyCTSlg68ZAvR9eHSNc2XwIw=="},"alt":"Idyllic Lighting","loading":"lazy"}]}],"$L16","$L17","$L18"]}],"$L19"]}]],["$L1a","$L1b"],"$L1c"]}],"p":"$@1d","v":null,"s":"$6"}}]]
+7:[["children",{"s":"request","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]]}],"p":"$@8","v":"$9","s":"$6"},"c":"$Qa"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/idyllic-lighting/_next/static/chunks/3qffu85djy4c1.css","precedence":"next"}],["$","script","script-0",{"src":"/idyllic-lighting/_next/static/chunks/42onvq6nokjl2.js","async":true}]],["$","html",null,{"lang":"en-CA","className":"no-js mxJcMa_variable pCyUDW_variable","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(d){var r=d.documentElement;r.classList.replace(\"no-js\",\"js\");addEventListener(\"load\",function(){setTimeout(function(){var h=d.querySelector(\".hero\");if(h&&h.getAttribute(\"data-mode\")===\"pending\")r.classList.replace(\"js\",\"no-js\")},3000)})})(document)"}}]}],["$","body",null,{"children":[["$","a",null,{"className":"skip-link","href":"#main","children":"Skip to main content"}],["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]]}]]}]]}],"p":"$@5","v":null,"s":"$6"},"c":"$Q7"},"h":{"r":["$","$1","h",{"children":[null,["$","$L1f",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#0B0E13"}]]}],["$","$L21",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$e",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Request a quote or site visit | Idyllic Lighting concept preview"}],["$","meta","1",{"name":"description","content":"Concept preview of a website for Idyllic Lighting: permanent and seasonal outdoor lighting for homes and businesses in Leduc, Edmonton and Central Alberta."}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"icon","href":"/idyllic-lighting/favicon.ico?favicon.2ppsxdiam292-.ico","sizes":"48x48","type":"image/x-icon"}],["$","link","4",{"rel":"apple-touch-icon","href":"/idyllic-lighting/apple-icon.png?apple-icon.1l8pb39u6168-.png","sizes":"180x180","type":"image/png"}],["$","$L22","5",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@23","v":null,"s":"$6"}},"a":"$@24","u":"$@25","b":"SsJqi2yeWpJfIV7dbEEpy"}
+26:I[53777,["$2","$b","$c"],"RequestLink"]
+27:I[97367,["$2"],"OutletBoundary"]
+16:["$","div",null,{"className":"footer-col","children":[["$","h2",null,{"children":"Contact"}],["$","ul",null,{"children":[["$","li",null,{"children":["$","a",null,{"href":"mailto:idylliclighting@gmail.com","children":"idylliclighting@gmail.com"}]}],["$","li",null,{"children":["$","a",null,{"href":"https://www.facebook.com/profile.php?id=61567869581164","target":"_blank","rel":"noopener noreferrer","children":"Facebook"}]}]]}]]}]
+17:["$","div",null,{"className":"footer-col","children":[["$","h2",null,{"children":"Service area"}],["$","p",null,{"children":"Leduc, Edmonton, Leduc County and across Central Alberta"}]]}]
+18:["$","div",null,{"className":"footer-col","children":[["$","h2",null,{"children":"Get started"}],["$","ul",null,{"children":[["$","li",null,{"children":["$","$L26",null,{"type":"quote","children":"Get a Free Quote"}]}],["$","li",null,{"children":["$","$L26",null,{"type":"site_visit","children":"Request a Site Visit"}]}]]}]]}]
+19:["$","p",null,{"className":"footer-note","children":[["$","strong",null,{"children":["Concept preview","."]}]," ","Not the official Idyllic Lighting website. Forms are demo-only."," Contact details and service area are from public listings and still need the owner’s confirmation."]}]
+1a:["$","script","script-0",{"src":"/idyllic-lighting/_next/static/chunks/45caya3-pzexs.js","async":true}]
+1b:["$","script","script-1",{"src":"/idyllic-lighting/_next/static/chunks/2dlmuea-eaz-c.js","async":true}]
+1c:["$","$L27",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@28"}]}]
+6:300
+28:null
+25:true
+6:C
+24:0
+8:"$undefined"
+5:"$undefined"
+23:"$undefined"
+1d:"$undefined"
