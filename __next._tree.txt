@@ -2,4 +2,4 @@
 :HL["/idyllic-lighting/_next/static/media/80099d840e1750ba-s.p.23ep72p29q6zo.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/idyllic-lighting/_next/static/media/82450a180bcad83c-s.p.0p-wng2nn8o-p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 1:[["children",{"s":"__PAGE__","h":160}]]
-0:{"b":"VEUBnmAVBBgcGp-rgvh5i","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"PWzjQC3CotHkTXIqY1BHG","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
